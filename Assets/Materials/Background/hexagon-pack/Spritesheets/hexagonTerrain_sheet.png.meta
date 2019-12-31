@@ -1,0 +1,2371 @@
+fileFormatVersion: 2
+guid: fe5a9c0de1fea8140ab362ee04c79ab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5028660767424417295
+    second: dirt_01.png
+  - first:
+      213: -7081428845502471125
+    second: dirt_02.png
+  - first:
+      213: 6510580976768317269
+    second: dirt_03.png
+  - first:
+      213: 4569507860039680460
+    second: dirt_04.png
+  - first:
+      213: -6616214799735544539
+    second: dirt_05.png
+  - first:
+      213: 225618466570619140
+    second: dirt_06.png
+  - first:
+      213: -6713811985291128932
+    second: dirt_07.png
+  - first:
+      213: -3986917071331024032
+    second: dirt_08.png
+  - first:
+      213: -3790030253957842630
+    second: dirt_09.png
+  - first:
+      213: -6159474762307129258
+    second: dirt_10.png
+  - first:
+      213: 1751526136253430173
+    second: dirt_11.png
+  - first:
+      213: 7329190320663045068
+    second: dirt_12.png
+  - first:
+      213: -7314069789430296704
+    second: dirt_13.png
+  - first:
+      213: 2161807624225727939
+    second: dirt_14.png
+  - first:
+      213: -1356272649070651555
+    second: dirt_15.png
+  - first:
+      213: -1479833181139346735
+    second: dirt_16.png
+  - first:
+      213: 2764254800064173276
+    second: dirt_17.png
+  - first:
+      213: 6372391856137885359
+    second: dirt_18.png
+  - first:
+      213: 784058046479497188
+    second: dirt_19.png
+  - first:
+      213: 6623638623417516001
+    second: grass_01.png
+  - first:
+      213: -3303121424076962727
+    second: grass_02.png
+  - first:
+      213: 2064744126519802225
+    second: grass_03.png
+  - first:
+      213: -3530331973148277317
+    second: grass_04.png
+  - first:
+      213: 8915118817686687883
+    second: grass_05.png
+  - first:
+      213: 8529846500953675831
+    second: grass_06.png
+  - first:
+      213: 6301979777740725998
+    second: grass_07.png
+  - first:
+      213: 8866245437573087596
+    second: grass_08.png
+  - first:
+      213: 3807770298341187948
+    second: grass_09.png
+  - first:
+      213: 3765002335309196336
+    second: grass_10.png
+  - first:
+      213: 4223455232598467528
+    second: grass_11.png
+  - first:
+      213: 4393987173501213259
+    second: grass_12.png
+  - first:
+      213: -5817775907697425352
+    second: grass_13.png
+  - first:
+      213: -2764856350749447995
+    second: grass_14.png
+  - first:
+      213: -74902774165740421
+    second: grass_15.png
+  - first:
+      213: 155429104359637474
+    second: grass_16.png
+  - first:
+      213: 6935634802863339616
+    second: grass_17.png
+  - first:
+      213: 7957915875579541296
+    second: grass_18.png
+  - first:
+      213: -3308762867509746508
+    second: grass_19.png
+  - first:
+      213: -3352452286831723040
+    second: mars_01.png
+  - first:
+      213: 8790578337853019848
+    second: mars_02.png
+  - first:
+      213: 6125406150745064953
+    second: mars_03.png
+  - first:
+      213: 3089872135218167597
+    second: mars_04.png
+  - first:
+      213: 3184360986002938264
+    second: mars_05.png
+  - first:
+      213: 2414031915545780404
+    second: mars_06.png
+  - first:
+      213: -2489820599625543786
+    second: mars_07.png
+  - first:
+      213: -4341114685053014827
+    second: mars_08.png
+  - first:
+      213: -1260762285136898885
+    second: mars_09.png
+  - first:
+      213: 2666649963240160566
+    second: mars_10.png
+  - first:
+      213: 3986076380481997601
+    second: mars_11.png
+  - first:
+      213: 6911520368363265144
+    second: mars_12.png
+  - first:
+      213: 6133648676146580923
+    second: mars_13.png
+  - first:
+      213: 7906657575786838167
+    second: mars_14.png
+  - first:
+      213: -9029436635369327043
+    second: mars_15.png
+  - first:
+      213: -4075963846125397299
+    second: mars_16.png
+  - first:
+      213: -1540787078857402782
+    second: mars_17.png
+  - first:
+      213: -6157345449970628294
+    second: mars_18.png
+  - first:
+      213: -3697760088665604809
+    second: mars_19.png
+  - first:
+      213: -4489450006679375797
+    second: sand_01.png
+  - first:
+      213: -7337862054843696666
+    second: sand_02.png
+  - first:
+      213: 8755614890091720586
+    second: sand_03.png
+  - first:
+      213: -4197988844627702840
+    second: sand_04.png
+  - first:
+      213: 3359054378242993954
+    second: sand_05.png
+  - first:
+      213: -183747619489370920
+    second: sand_06.png
+  - first:
+      213: 3791517836914604083
+    second: sand_07.png
+  - first:
+      213: 8896162118997603562
+    second: sand_08.png
+  - first:
+      213: 1114660806847564756
+    second: sand_09.png
+  - first:
+      213: -3396809533575255085
+    second: sand_10.png
+  - first:
+      213: 6008674811977421084
+    second: sand_11.png
+  - first:
+      213: 8716549469025822868
+    second: sand_12.png
+  - first:
+      213: -7937533503512490685
+    second: sand_13.png
+  - first:
+      213: -6882631911045214095
+    second: sand_14.png
+  - first:
+      213: 719229797580162724
+    second: sand_15.png
+  - first:
+      213: 5857776128660670472
+    second: sand_16.png
+  - first:
+      213: -1612471013734743435
+    second: sand_17.png
+  - first:
+      213: 6726057623692218483
+    second: sand_18.png
+  - first:
+      213: -1812299394774208082
+    second: sand_19.png
+  - first:
+      213: -8564292705503882729
+    second: stone_01.png
+  - first:
+      213: -3071720832345076443
+    second: stone_02.png
+  - first:
+      213: -3284824438597511210
+    second: stone_03.png
+  - first:
+      213: -1835873372985717234
+    second: stone_04.png
+  - first:
+      213: -5993467546291027820
+    second: stone_05.png
+  - first:
+      213: 3766122356128060130
+    second: stone_06.png
+  - first:
+      213: -6537912240384131153
+    second: stone_07.png
+  - first:
+      213: -4106097909135107424
+    second: stone_08.png
+  - first:
+      213: 4561670726347322117
+    second: stone_09.png
+  - first:
+      213: -3032655056658541807
+    second: stone_10.png
+  - first:
+      213: -2350221483113378443
+    second: stone_11.png
+  - first:
+      213: 8357659438223723444
+    second: stone_12.png
+  - first:
+      213: 3326260323564724932
+    second: stone_13.png
+  - first:
+      213: 7709255801219790376
+    second: stone_14.png
+  - first:
+      213: -5629322452950523444
+    second: stone_15.png
+  - first:
+      213: -7931505020062978258
+    second: stone_16.png
+  - first:
+      213: 1007785357103053263
+    second: stone_17.png
+  - first:
+      213: -1941422123540914970
+    second: stone_18.png
+  - first:
+      213: 8623359301995861597
+    second: stone_19.png
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dirt_01.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5028660767424417295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_02.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7081428845502471125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_03.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6510580976768317269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_04.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4569507860039680460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_05.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6616214799735544539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_06.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 225618466570619140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_07.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6713811985291128932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_08.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3986917071331024032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_09.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3790030253957842630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_10.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6159474762307129258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_11.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1751526136253430173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_12.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7329190320663045068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_13.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7314069789430296704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_14.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2161807624225727939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_15.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1356272649070651555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_16.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1479833181139346735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_17.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2764254800064173276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_18.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6372391856137885359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_19.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 992
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 784058046479497188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_01.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6623638623417516001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_02.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3303121424076962727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_03.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2064744126519802225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_04.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3530331973148277317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_05.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8915118817686687883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_06.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8529846500953675831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_07.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6301979777740725998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_08.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8866245437573087596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_09.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3807770298341187948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_10.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3765002335309196336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_11.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4223455232598467528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_12.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4393987173501213259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_13.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5817775907697425352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_14.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2764856350749447995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_15.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -74902774165740421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_16.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 155429104359637474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_17.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6935634802863339616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_18.png
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7957915875579541296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_19.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 888
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3308762867509746508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_01.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3352452286831723040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_02.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 682
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8790578337853019848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_03.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6125406150745064953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_04.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3089872135218167597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_05.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3184360986002938264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_06.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2414031915545780404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_07.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2489820599625543786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_08.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4341114685053014827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_09.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1260762285136898885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_10.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2666649963240160566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_11.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3986076380481997601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_12.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6911520368363265144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_13.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6133648676146580923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_14.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7906657575786838167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_15.png
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9029436635369327043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_16.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4075963846125397299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_17.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1540787078857402782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_18.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6157345449970628294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_19.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3697760088665604809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_01.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4489450006679375797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_02.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1095
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7337862054843696666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_03.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8755614890091720586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_04.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4197988844627702840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_05.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3359054378242993954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_06.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -183747619489370920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_07.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3791517836914604083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_08.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8896162118997603562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_09.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1114660806847564756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_10.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3396809533575255085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_11.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6008674811977421084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_12.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8716549469025822868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_13.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7937533503512490685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_14.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6882631911045214095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_15.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 719229797580162724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_16.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5857776128660670472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_17.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1612471013734743435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_18.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6726057623692218483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand_19.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1812299394774208082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_01.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8564292705503882729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_02.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 785
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3071720832345076443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_03.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3284824438597511210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_04.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1835873372985717234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_05.png
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5993467546291027820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_06.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3766122356128060130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_07.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6537912240384131153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_08.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4106097909135107424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_09.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4561670726347322117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_10.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3032655056658541807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_11.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2350221483113378443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_12.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8357659438223723444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_13.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3326260323564724932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_14.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7709255801219790376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_15.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5629322452950523444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_16.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7931505020062978258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_17.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1007785357103053263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_18.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1941422123540914970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_19.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8623359301995861597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

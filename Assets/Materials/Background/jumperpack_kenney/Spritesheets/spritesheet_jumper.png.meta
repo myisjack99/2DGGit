@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: 5ec2d51384820704f852e6157e659c3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4727985781521273789
+    second: bronze_1.png
+  - first:
+      213: -2743053262901623030
+    second: bronze_2.png
+  - first:
+      213: -3200084253387314268
+    second: bronze_3.png
+  - first:
+      213: 8040940488121400571
+    second: bronze_4.png
+  - first:
+      213: -1253651759480069191
+    second: bubble.png
+  - first:
+      213: 1110234092257358363
+    second: bunny1_hurt.png
+  - first:
+      213: -6917787956292187071
+    second: bunny1_jump.png
+  - first:
+      213: 5431996115152148446
+    second: bunny1_ready.png
+  - first:
+      213: -3589497971833914064
+    second: bunny1_stand.png
+  - first:
+      213: -3741471438729952710
+    second: bunny1_walk1.png
+  - first:
+      213: -8323642826864946961
+    second: bunny1_walk2.png
+  - first:
+      213: 5276058911888828644
+    second: bunny2_hurt.png
+  - first:
+      213: -2478092132450329001
+    second: bunny2_jump.png
+  - first:
+      213: -1751229047714798827
+    second: bunny2_ready.png
+  - first:
+      213: 3038543809683308670
+    second: bunny2_stand.png
+  - first:
+      213: -6311718303908155383
+    second: bunny2_walk1.png
+  - first:
+      213: -6025663553884396547
+    second: bunny2_walk2.png
+  - first:
+      213: -8919097264593601343
+    second: cactus.png
+  - first:
+      213: -5740741714321961275
+    second: carrot.png
+  - first:
+      213: -6457591310987123631
+    second: carrot_gold.png
+  - first:
+      213: 2517130447809325262
+    second: carrots.png
+  - first:
+      213: -8443198914927723566
+    second: cloud.png
+  - first:
+      213: -9203953954364559346
+    second: coin_bronze.png
+  - first:
+      213: 8914589165943538582
+    second: coin_gold.png
+  - first:
+      213: -297820189000194831
+    second: coin_silver.png
+  - first:
+      213: -5941188627212249671
+    second: flame.png
+  - first:
+      213: 4501390850363351344
+    second: flyMan_fly.png
+  - first:
+      213: 3334945167065263627
+    second: flyMan_jump.png
+  - first:
+      213: 5040604031742816060
+    second: flyMan_stand.png
+  - first:
+      213: 4433654363394015147
+    second: flyMan_still_fly.png
+  - first:
+      213: -5524889863209288860
+    second: flyMan_still_jump.png
+  - first:
+      213: -7393031294645591094
+    second: flyMan_still_stand.png
+  - first:
+      213: -5650899617905873934
+    second: gold_1.png
+  - first:
+      213: 1906905057273176229
+    second: gold_2.png
+  - first:
+      213: -3206683777438230516
+    second: gold_3.png
+  - first:
+      213: -4470013966642175295
+    second: gold_4.png
+  - first:
+      213: 4220589468714792482
+    second: grass1.png
+  - first:
+      213: 3690786504247262692
+    second: grass2.png
+  - first:
+      213: 7798086738456034765
+    second: grass_brown1.png
+  - first:
+      213: -8520427309870196311
+    second: grass_brown2.png
+  - first:
+      213: 5036091170434791587
+    second: ground_cake.png
+  - first:
+      213: 7864032883814292551
+    second: ground_cake_broken.png
+  - first:
+      213: -5580182972163571551
+    second: ground_cake_small.png
+  - first:
+      213: 8256417472543716144
+    second: ground_cake_small_broken.png
+  - first:
+      213: 7195675952183358600
+    second: ground_grass.png
+  - first:
+      213: -8417144579678198926
+    second: ground_grass_broken.png
+  - first:
+      213: -7064646585085985716
+    second: ground_grass_small.png
+  - first:
+      213: -4814538776817942034
+    second: ground_grass_small_broken.png
+  - first:
+      213: -9193557652320204636
+    second: ground_sand.png
+  - first:
+      213: 6279925238974189673
+    second: ground_sand_broken.png
+  - first:
+      213: -1279572747249236362
+    second: ground_sand_small.png
+  - first:
+      213: -5063432891603705944
+    second: ground_sand_small_broken.png
+  - first:
+      213: 8169884927944012560
+    second: ground_snow.png
+  - first:
+      213: -6216231757458165695
+    second: ground_snow_broken.png
+  - first:
+      213: -4893987147336021593
+    second: ground_snow_small.png
+  - first:
+      213: 7181016175662724251
+    second: ground_snow_small_broken.png
+  - first:
+      213: -4207750800040277597
+    second: ground_stone.png
+  - first:
+      213: -8860179109651083260
+    second: ground_stone_broken.png
+  - first:
+      213: -5442180046740272780
+    second: ground_stone_small.png
+  - first:
+      213: 1391079315429927557
+    second: ground_stone_small_broken.png
+  - first:
+      213: -5390825121581969620
+    second: ground_wood.png
+  - first:
+      213: -6088960342655778164
+    second: ground_wood_broken.png
+  - first:
+      213: 1179856878527106860
+    second: ground_wood_small.png
+  - first:
+      213: 24526635319764737
+    second: ground_wood_small_broken.png
+  - first:
+      213: 974213731593231940
+    second: jetpack.png
+  - first:
+      213: 2997741566719333839
+    second: jetpack_item.png
+  - first:
+      213: 3242767717294863101
+    second: lifes.png
+  - first:
+      213: 2280630485989910145
+    second: lighting_blue.png
+  - first:
+      213: -5308369530935219735
+    second: lighting_yellow.png
+  - first:
+      213: -8503086985748621664
+    second: mushroom_brown.png
+  - first:
+      213: -643043946304845602
+    second: mushroom_red.png
+  - first:
+      213: 641901126367650023
+    second: particle_beige.png
+  - first:
+      213: 909653227256483690
+    second: particle_blue.png
+  - first:
+      213: 4510475227798345772
+    second: particle_brown.png
+  - first:
+      213: -596293902000214507
+    second: particle_darkBrown.png
+  - first:
+      213: 3565418006616778016
+    second: particle_darkGrey.png
+  - first:
+      213: -98860545327337882
+    second: particle_green.png
+  - first:
+      213: 1964022086662721956
+    second: particle_grey.png
+  - first:
+      213: -5138979124085351846
+    second: particle_pink.png
+  - first:
+      213: 2512663019410530598
+    second: portal_orange.png
+  - first:
+      213: 4765897812076028997
+    second: portal_orangeParticle.png
+  - first:
+      213: -5388932409635217367
+    second: portal_yellow.png
+  - first:
+      213: -2406137192458186598
+    second: portal_yellowParticle.png
+  - first:
+      213: 5713149086494567276
+    second: powerup_bubble.png
+  - first:
+      213: -3600807198143572606
+    second: powerup_bunny.png
+  - first:
+      213: 1661595571444034462
+    second: powerup_empty.png
+  - first:
+      213: -5721193722410500915
+    second: powerup_jetpack.png
+  - first:
+      213: 3431103020239311043
+    second: powerup_wings.png
+  - first:
+      213: 8819944892764199826
+    second: silver_1.png
+  - first:
+      213: -2889961224248218054
+    second: silver_2.png
+  - first:
+      213: 4476167925746865037
+    second: silver_3.png
+  - first:
+      213: -750744146092906142
+    second: silver_4.png
+  - first:
+      213: 523328864429078979
+    second: smoke.png
+  - first:
+      213: -6911694807892589588
+    second: spikeBall1.png
+  - first:
+      213: 5988497069261303986
+    second: spikeBall_2.png
+  - first:
+      213: 2819646636750808190
+    second: spikeMan_jump.png
+  - first:
+      213: 252505356881115893
+    second: spikeMan_stand.png
+  - first:
+      213: -2900597099467453722
+    second: spikeMan_walk1.png
+  - first:
+      213: 140329662533524234
+    second: spikeMan_walk2.png
+  - first:
+      213: -8770146143907294917
+    second: spike_bottom.png
+  - first:
+      213: 3406282124693551364
+    second: spike_top.png
+  - first:
+      213: -2586527133096171182
+    second: spikes_bottom.png
+  - first:
+      213: 8598027804651681429
+    second: spikes_top.png
+  - first:
+      213: 1853569476530769635
+    second: spring.png
+  - first:
+      213: 2870994882566233699
+    second: springMan_hurt.png
+  - first:
+      213: 6823995887430640885
+    second: springMan_stand.png
+  - first:
+      213: 6593828760142380276
+    second: spring_in.png
+  - first:
+      213: -1312288214695902747
+    second: spring_out.png
+  - first:
+      213: 7002753402451175500
+    second: sun1.png
+  - first:
+      213: -5869939190544047816
+    second: sun2.png
+  - first:
+      213: 7888501595785895602
+    second: wingMan1.png
+  - first:
+      213: -6173007033914015915
+    second: wingMan2.png
+  - first:
+      213: -6560875032171244326
+    second: wingMan3.png
+  - first:
+      213: 5526512415781865459
+    second: wingMan4.png
+  - first:
+      213: -7359540882880163799
+    second: wingMan5.png
+  - first:
+      213: -4669629055193947784
+    second: wing_left.png
+  - first:
+      213: -7769444912082476099
+    second: wing_right.png
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bronze_1.png
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1668
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4727985781521273789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze_2.png
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1758
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2743053262901623030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze_3.png
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1848
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3200084253387314268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze_4.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1558
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8040940488121400571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 211
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1253651759480069191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny1_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 928
+        width: 150
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1110234092257358363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny1_jump.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1104
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6917787956292187071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny1_ready.png
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 794
+        width: 120
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5431996115152148446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny1_stand.png
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1441
+        width: 120
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3589497971833914064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny1_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 987
+        width: 120
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3741471438729952710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny1_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 383
+        width: 120
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8323642826864946961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny2_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 8
+        width: 150
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5276058911888828644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny2_jump.png
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 207
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2478092132450329001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny2_ready.png
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 592
+        width: 121
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1751229047714798827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny2_stand.png
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1847
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3038543809683308670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny2_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1644
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6311718303908155383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny2_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1190
+        width: 121
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6025663553884396547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus.png
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1754
+        width: 117
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8919097264593601343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot.png
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 245
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5740741714321961275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot_gold.png
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 317
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6457591310987123631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrots.png
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1445
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2517130447809325262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 260
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8443198914927723566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_bronze.png
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 597
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9203953954364559346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_gold.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 6
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8914589165943538582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_silver.png
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 6
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -297820189000194831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame.png
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 235
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5941188627212249671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMan_fly.png
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1399
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4501390850363351344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMan_jump.png
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 379
+        width: 122
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3334945167065263627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMan_stand.png
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 238
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5040604031742816060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMan_still_fly.png
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 249
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4433654363394015147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMan_still_jump.png
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 119
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5524889863209288860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMan_still_stand.png
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1916
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7393031294645591094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_1.png
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 33
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5650899617905873934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_2.png
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1964
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1906905057273176229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_3.png
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 390
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3206683777438230516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_4.png
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1313
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4470013966642175295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass1.png
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 114
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4220589468714792482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass2.png
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 47
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3690786504247262692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_brown1.png
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 928
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7798086738456034765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_brown2.png
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1226
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8520427309870196311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_cake.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5036091170434791587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_cake_broken.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1954
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7864032883814292551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_cake_small.png
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 492
+        width: 201
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5580182972163571551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_cake_small_broken.png
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 796
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8256417472543716144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_grass.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7195675952183358600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_grass_broken.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1570
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8417144579678198926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_grass_small.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 286
+        width: 201
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7064646585085985716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_grass_small_broken.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1744
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4814538776817942034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_sand.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1282
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9193557652320204636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_sand_broken.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6279925238974189673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_sand_small.png
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 69
+        width: 201
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1279572747249236362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_sand_small_broken.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1846
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5063432891603705944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_snow.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8169884927944012560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_snow_broken.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1474
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6216231757458165695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_snow_small.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 184
+        width: 201
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4893987147336021593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_snow_small_broken.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1642
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7181016175662724251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_stone.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1858
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4207750800040277597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_stone_broken.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1762
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8860179109651083260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_stone_small.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1540
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5442180046740272780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_stone_small_broken.png
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 660
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1391079315429927557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_wood.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 994
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5390825121581969620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_wood_broken.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6088960342655778164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_wood_small.png
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 390
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1179856878527106860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_wood_small_broken.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1948
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 24526635319764737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 45
+        width: 133
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 974213731593231940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_item.png
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 882
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2997741566719333839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifes.png
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 41
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3242767717294863101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighting_blue.png
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1481
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2280630485989910145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighting_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1934
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5308369530935219735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_brown.png
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 389
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8503086985748621664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red.png
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1496
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -643043946304845602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_beige.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 641901126367650023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_blue.png
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 831
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 909653227256483690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_brown.png
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 123
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4510475227798345772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_darkBrown.png
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -596293902000214507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_darkGrey.png
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 641
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3565418006616778016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_green.png
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 999
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -98860545327337882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_grey.png
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1964022086662721956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_pink.png
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1916
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5138979124085351846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_orange.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 230
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2512663019410530598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_orangeParticle.png
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 774
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4765897812076028997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 230
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5388932409635217367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_yellowParticle.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 774
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2406137192458186598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerup_bubble.png
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1844
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5713149086494567276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerup_bunny.png
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 758
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3600807198143572606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerup_empty.png
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 317
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1661595571444034462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerup_jetpack.png
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 173
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5721193722410500915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerup_wings.png
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 686
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3431103020239311043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_1.png
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1558
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8819944892764199826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_2.png
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 961
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2889961224248218054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_3.png
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 745
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4476167925746865037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_4.png
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1313
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -750744146092906142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke.png
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 636
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 523328864429078979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikeBall1.png
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1137
+        width: 142
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6911694807892589588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikeBall_2.png
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 785
+        width: 148
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5988497069261303986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikeMan_jump.png
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 830
+        width: 114
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2819646636750808190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikeMan_stand.png
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 476
+        width: 90
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 252505356881115893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikeMan_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 633
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2900597099467453722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikeMan_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1597
+        width: 90
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 140329662533524234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spike_bottom.png
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1755
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8770146143907294917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spike_top.png
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1209
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3406282124693551364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikes_bottom.png
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2586527133096171182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikes_top.png
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 605
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8598027804651681429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring.png
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 413
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1853569476530769635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springMan_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1047
+        width: 110
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2870994882566233699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springMan_stand.png
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1298
+        width: 110
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6823995887430640885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_in.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 145
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6593828760142380276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_out.png
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 673
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1312288214695902747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sun1.png
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 987
+        width: 142
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7002753402451175500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sun2.png
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 516
+        width: 148
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5869939190544047816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingMan1.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1287
+        width: 174
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7888501595785895602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingMan2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 206
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6173007033914015915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingMan3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 216
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6560875032171244326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingMan4.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 216
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5526512415781865459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wingMan5.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1415
+        width: 182
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7359540882880163799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing_left.png
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1323
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4669629055193947784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing_right.png
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 516
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7769444912082476099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
