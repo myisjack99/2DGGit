@@ -3,13 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class John : MonoBehaviour
 {
     new Rigidbody2D rigidbody2D;
     Animator animator;
-    bool facing;
 
-    public float moveSpeed = 10f;
+    public float INIT_SPEED = 10f;
+    public float moveSpeed;
 
     public bool canPaint;
 
@@ -18,6 +19,7 @@ public class John : MonoBehaviour
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        moveSpeed = INIT_SPEED;
     }
 
     // Update is called once per frame
@@ -26,15 +28,13 @@ public class John : MonoBehaviour
         float vertical = Input.GetAxis("Vertical");
         float horizontal = Input.GetAxis("Horizontal");
         Vector2 move = new Vector2(horizontal, vertical);
-        if (move.x > 0) facing = true;
-        else facing = false;
 
         animator.SetFloat("Speed", move.magnitude);
         animator.SetFloat("Move X", move.x);
         //animator.SetBool("Facing", facing);
 
         Vector2 position = rigidbody2D.position;
-        position = position + move * moveSpeed * Time.deltaTime;
+        position += move * moveSpeed * Time.deltaTime;
 
         rigidbody2D.MovePosition(position);
 
@@ -44,17 +44,36 @@ public class John : MonoBehaviour
     {
         string itemName = collision.gameObject.name;
 
-        if(collision.tag == "Item")
+        if (collision.tag == "Item")
             Gain(itemName);
+        else if (collision.tag == "Spike")
+            changeSpeed(-1f);
+        //else if (collision.tag == "Goal")
+            
+        else if (collision.tag == "Reset")
+            Application.LoadLevel("My2DG");
+            
     }
 
     void Gain(string ability)
     {
         if(ability.Equals("Painter"))
         {
-            moveSpeed+=5f;
+            changeSpeed(5f);
             canPaint = true;
             Debug.Log(ability + canPaint);
         }
     }
+
+    void changeSpeed(float mSpeed)
+    {
+        float temp = moveSpeed;
+        moveSpeed += mSpeed;
+        if (moveSpeed < INIT_SPEED) moveSpeed = INIT_SPEED;
+
+        animator.speed *= moveSpeed / temp;
+        if (animator.speed < 0.5f) animator.speed = 0.5f;
+        Debug.Log("speed="+moveSpeed);
+    }
+
 }

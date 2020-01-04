@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Item
+  - Spike
+  - Box
+  - Goal
+  - Plugin
+  - Plug
+  - Reset
+  - UI
   layers:
   - Default
   - TransparentFX
@@ -42,6 +49,12 @@ TagManager:
   - name: Tile
     uniqueID: 1374416487
     locked: 0
+  - name: CollidableTile
+    uniqueID: 3351420967
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Target
+    uniqueID: 685331471
     locked: 0
