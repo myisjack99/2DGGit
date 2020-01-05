@@ -2,11 +2,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 
 public class John : MonoBehaviour
 {
-    new Rigidbody2D rigidbody2D;
+    Rigidbody2D rigidbody2D;
     Animator animator;
 
     public float INIT_SPEED = 10f;
@@ -25,18 +25,21 @@ public class John : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float vertical = Input.GetAxis("Vertical");
-        float horizontal = Input.GetAxis("Horizontal");
-        Vector2 move = new Vector2(horizontal, vertical);
+        if(GameManager.pauseEnable == false)
+        {
+            float vertical = Input.GetAxis("Vertical");
+            float horizontal = Input.GetAxis("Horizontal");
+            Vector2 move = new Vector2(horizontal, vertical);
 
-        animator.SetFloat("Speed", move.magnitude);
-        animator.SetFloat("Move X", move.x);
-        //animator.SetBool("Facing", facing);
+            animator.SetFloat("Speed", move.magnitude);
+            animator.SetFloat("Move X", move.x);
+            //animator.SetBool("Facing", facing);
 
-        Vector2 position = rigidbody2D.position;
-        position += move * moveSpeed * Time.deltaTime;
+            Vector2 position = rigidbody2D.position;
+            position += move * moveSpeed * Time.deltaTime;
 
-        rigidbody2D.MovePosition(position);
+            rigidbody2D.MovePosition(position);
+        }
 
     }
 
@@ -51,7 +54,7 @@ public class John : MonoBehaviour
         //else if (collision.tag == "Goal")
             
         else if (collision.tag == "Reset")
-            Application.LoadLevel("My2DG");
+            SceneManager.LoadScene("My2DG");
             
     }
 
