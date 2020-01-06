@@ -12,6 +12,7 @@ TagManager:
   - Plug
   - Reset
   - UI
+  - Exit
   layers:
   - Default
   - TransparentFX

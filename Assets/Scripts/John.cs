@@ -8,6 +8,8 @@ public class John : MonoBehaviour
 {
     Rigidbody2D rigidbody2D;
     Animator animator;
+    string scene;
+    string nextScene;
 
     public float INIT_SPEED = 10f;
     public float moveSpeed;
@@ -20,6 +22,9 @@ public class John : MonoBehaviour
         rigidbody2D = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         moveSpeed = INIT_SPEED;
+        scene = SceneManager.GetActiveScene().name;
+        if (scene.Equals("Title"))
+            nextScene = "My2DG";
     }
 
     // Update is called once per frame
@@ -51,10 +56,10 @@ public class John : MonoBehaviour
             Gain(itemName);
         else if (collision.tag == "Spike")
             changeSpeed(-1f);
-        //else if (collision.tag == "Goal")
-            
+        else if (collision.tag == "Goal")
+            SceneManager.LoadScene(nextScene);
         else if (collision.tag == "Reset")
-            SceneManager.LoadScene("My2DG");
+            SceneManager.LoadScene(scene);
             
     }
 

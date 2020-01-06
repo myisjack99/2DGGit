@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Plugin : MonoBehaviour
 {
-    public GameObject plug;
+    public GameObject goal;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,15 +19,15 @@ public class Plugin : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        Debug.Log(collision.tag);
-        if(collision.tag.Equals("Plug"))
-            plug.SetActive(true);
+        if (collision.tag.Equals("Plug"))
+            goal.SetActive(true);
+        else if (collision.tag.Equals("Exit"))
+            Application.Quit();
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        Debug.Log(collision.tag);
         if (collision.tag.Equals("Plug"))
-            plug.SetActive(false);
+            goal.SetActive(false);
     }
 }
